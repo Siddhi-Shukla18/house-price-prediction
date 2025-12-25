@@ -34,15 +34,15 @@ It helps understand which factors (like number of rooms, location, or income) af
 ```bash
 git clone <repository-link>
 ```
-## Navigate to the project folder
+2. Navigate to the project folder
 ```bash
 cd house-price-prediction
 ```
-## install dependencies
+3. install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-## Run the project
+4. Run the project
 ```bash
 python app.py
 ```
